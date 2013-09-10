@@ -8,4 +8,5 @@ I don't really know why the bouncing elephant came to mind, but it has been a fa
 ###Technologies used:
 
 * HTML5 Canvas
-* 
+* HTML5 Video
+* Basic CSS/Javascript
