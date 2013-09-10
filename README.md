@@ -3,6 +3,10 @@
 
 Code repo, Homework, projects, etc. for Jannae Jacks. All things Live Web will be here. Ideally.
 
+### Projects Inside
+
+* HW01: [Interactive Video Self-Portrait](hw01/)
+
 ### Course Description
 
 **Tuesdays, 12:30-3p. Shawn Van Every**
